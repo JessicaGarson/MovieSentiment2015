@@ -1,6 +1,9 @@
-# MovieSentiment2015
+# Movie Sentiment 2015
 
-##Movie Sentiment 2014
+##2014 competition
+The competition from 2014 can be found [here](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+
+##Movie sentiment 2014 code
 My 2014 movie sentiment code can be found [here in this repo](https://github.com/JessicaGarson/MovieSentiment)
 
 ##The competition
