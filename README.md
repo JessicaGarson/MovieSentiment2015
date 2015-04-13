@@ -1,4 +1,6 @@
 # MovieSentiment2015
+##Movie Sentiment 2014
+My 2014 movie sentiment code can be found [here in this repo](https://github.com/JessicaGarson/MovieSentiment)
 ##The competition
 [Kaggle competition can be found here](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 ##ipython notebooks for code 
