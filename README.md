@@ -5,3 +5,4 @@ My 2014 movie sentiment code can be found [here in this repo](https://github.com
 [Kaggle competition can be found here](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 ##ipython notebooks for code 
 [ipython notebook for bag of words](http://nbviewer.ipython.org/github/JessicaGarson/MovieSentiment2015/blob/master/BagofWords%20.ipynb)
+[ipython notebook for bag of vectors](http://nbviewer.ipython.org/github/JessicaGarson/MovieSentiment2015/blob/master/Word%20vectors%20.ipynb)
